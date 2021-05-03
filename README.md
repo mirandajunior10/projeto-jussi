@@ -9,7 +9,7 @@ Esse projeto foi criado com [Create React App](https://github.com/facebook/creat
 - [x] [Styled Components](https://styled-components.com/)
 - [x] [Typescript](https://www.typescriptlang.org/)
 - [x] [Semantic UI React](https://react.semantic-ui.com/)
-- [x] [Axios](https://github.com/axios/axios).\
+- [x] [Axios](https://github.com/axios/axios)
 
 ### Desenvolvimento
 - [x] [ESLint](https://eslint.org/)
