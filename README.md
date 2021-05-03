@@ -1,46 +1,75 @@
-# Getting Started with Create React App
+# 🏠 Landing page Jussi 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esse projeto foi criado com [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## 👨🏾‍💻 Tecnologias utilizadas
 
-In the project directory, you can run:
+### Produção
+- [x] [React.JS](https://pt-br.reactjs.org/)
+- [x] [Styled Components](https://styled-components.com/)
+- [x] [Typescript](https://www.typescriptlang.org/)
+- [x] [Semantic UI React](https://react.semantic-ui.com/)
+- [x] [Axios](https://github.com/axios/axios).\
+
+### Desenvolvimento
+- [x] [ESLint](https://eslint.org/)
+- [x] [Prettier](https://prettier.io/)
+
+## 🛠 Instalação
+
+### Pré-requisitos
+Você precisa ter instalado em sua máquina as seguintes ferramentas:
+- [Git](https://git-scm.com)
+- [Node.JS](https://nodejs.org/en/)
+
+### 🎲 Clonando o repositório
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/mirandajunior10/projeto-jussi.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd projeto-jussi
+```
+
+
+### 🌐 Configurando e rodando
+
+```bash
+# Instale as dependências
+$ npm install
+ou
+$ yarn install
+
+# Executar o servidor
+$ npm start
+ou
+$ yarn start
+
+# O projeto inciará na porta:3000 - acesse http://localhost:3000
+```
+
+
+## Scripts
+
+Na pasta do projeto, podem ser executados:
 
 ### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Executa o app em modo de desenvolvimento.\
+Abre o [http://localhost:3000](http://localhost:3000) no seu browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+A página ira recarregar quando for feita qualquer alteração no código.
 
 ### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Abre o executor de testes em modo interativo, no terminal
+Veja a seção [running tests](https://facebook.github.io/create-react-app/docs/running-tests) para mais informações.
 
 ### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Executa a build do app para modo de produção na pasta `build` .\
+Esse comando agrega todo o código React em modo de produção e optimiza para melhor performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Veja a seção de [deploy](https://facebook.github.io/create-react-app/docs/deployment) para mais informações.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
