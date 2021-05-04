@@ -1,10 +1,11 @@
-# 🏠 Landing page Jussi 
+# 🏠 Landing page Jussi
 
 Esse projeto foi criado com [Create React App](https://github.com/facebook/create-react-app).
 
 ## 👨🏾‍💻 Tecnologias utilizadas
 
 ### Produção
+
 - [x] [React.JS](https://pt-br.reactjs.org/)
 - [x] [Styled Components](https://styled-components.com/)
 - [x] [Typescript](https://www.typescriptlang.org/)
@@ -12,13 +13,16 @@ Esse projeto foi criado com [Create React App](https://github.com/facebook/creat
 - [x] [Axios](https://github.com/axios/axios)
 
 ### Desenvolvimento
+
 - [x] [ESLint](https://eslint.org/)
 - [x] [Prettier](https://prettier.io/)
 
 ## 🛠 Instalação
 
 ### Pré-requisitos
+
 Você precisa ter instalado em sua máquina as seguintes ferramentas:
+
 - [Git](https://git-scm.com)
 - [Node.JS](https://nodejs.org/en/)
 
@@ -31,7 +35,6 @@ $ git clone https://github.com/mirandajunior10/projeto-jussi.git
 # Acesse a pasta do projeto no terminal/cmd
 $ cd projeto-jussi
 ```
-
 
 ### 🌐 Configurando e rodando
 
@@ -46,9 +49,8 @@ $ npm start
 ou
 $ yarn start
 
-# O projeto inciará na porta:3000 - acesse http://localhost:3000
+# O projeto iniciará na porta:3000 - acesse http://localhost:3000
 ```
-
 
 ## Scripts
 
@@ -72,4 +74,3 @@ Executa a build do app para modo de produção na pasta `build` .\
 Esse comando agrega todo o código React em modo de produção e optimiza para melhor performance.
 
 Veja a seção de [deploy](https://facebook.github.io/create-react-app/docs/deployment) para mais informações.
-
