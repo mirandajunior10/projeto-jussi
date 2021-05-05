@@ -56,19 +56,19 @@ $ yarn start
 
 Na pasta do projeto, podem ser executados:
 
-### `yarn start`
+### `yarn start` ou `npm run start`
 
 Executa o app em modo de desenvolvimento.\
 Abre o [http://localhost:3000](http://localhost:3000) no seu browser.
 
 A página ira recarregar quando for feita qualquer alteração no código.
 
-### `yarn test`
+### `yarn test` ou `npm run test`
 
 Abre o executor de testes em modo interativo, no terminal
 Veja a seção [running tests](https://facebook.github.io/create-react-app/docs/running-tests) para mais informações.
 
-### `yarn build`
+### `yarn build` ou `npm run build`
 
 Executa a build do app para modo de produção na pasta `build` .\
 Esse comando agrega todo o código React em modo de produção e optimiza para melhor performance.
